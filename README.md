@@ -1,11 +1,39 @@
-# Sample Snack app
+# 🌐 Language Learning App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+An interactive mobile application designed to make **language learning simple and fun**.  
+With structured lessons, flashcards, and quizzes, this app helps users build vocabulary and test their knowledge effectively.  
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## ✨ Features
+- 🏠 **Home Screen** – Central hub for navigation  
+- 🌍 **Language Selection** – Choose your preferred language  
+- 📖 **Lessons** – Learn essential words and phrases step by step  
+- 🃏 **Flashcards** – Memorize with engaging flashcards  
+- ❓ **Quiz Mode** – Test your progress through quizzes  
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+---
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 🚀 Installation & Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/language-learning-app.git
+cd language-learning-app
+
+# 2. Install dependencies
+npm install
+# or
+yarn install
+
+# 3. Start the development server
+npm start
+
+```
+
+## 👩‍💻 Author  
+
+Created by **Sumaira Ramzan**  
+
+- 🌐 GitHub:  https://github.com/sumairaramzan244  
+- 💼 LinkedIn: https://www.linkedin.com/in/sumaira-ramzan  

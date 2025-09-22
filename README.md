@@ -14,6 +14,13 @@ With structured lessons, flashcards, and quizzes, this app helps users build voc
 
 ---
 
+## 🛠️ Tech Stack  
+- ⚛️ **React Native** – For cross-platform mobile development  
+- 🎨 **Expo / React Navigation** – Smooth navigation and UI handling  
+- 📦 **npm / yarn** – Dependency management  
+
+---
+
 ## 🚀 Installation & Setup
 
 ```bash
